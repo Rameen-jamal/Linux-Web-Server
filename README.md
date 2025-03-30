@@ -1,10 +1,10 @@
 Real-Life Web Application Server in C
-📌 Project Overview
+ #Project Overview
 This project is a lightweight, real-time web server implemented in C, demonstrating key Operating System (OS) concepts such as multi-processing, multi-threading, inter-process communication (IPC), synchronization, and memory management. The server will efficiently handle concurrent client connections and serve both static content (HTML, CSS, JS, images) and dynamic content using CGI (Common Gateway Interface).
 
 This README covers Phase 1 of the project, which includes the basic implementation of the server.
 
-🚀 Phase 1: Implemented Features
+ Phase 1: Implemented Features
 ✅ Core Server Architecture – Basic request handling and client-server communication.
 ✅ Socket Programming – Implemented socket(), bind(), listen(), and accept().
 ✅ Static File Serving – Supports HTML, CSS, JS, and images with correct MIME types.
