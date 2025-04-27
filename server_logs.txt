@@ -1,0 +1,158 @@
+[2025-04-27 13:58:35] Thread pool initialized with 4 threads
+[2025-04-27 13:58:35] Server started on port 8080
+[2025-04-27 13:58:35] Server initialized with FCFS scheduling
+[2025-04-27 13:58:48] Connection from 127.0.0.1:57474 - GET /secure/secret.html
+[2025-04-27 13:58:48] Enqueued request GET /secure/secret.html
+[2025-04-27 13:58:48] Scheduled request GET /secure/secret.html
+[2025-04-27 13:58:48] Request: GET /secure/secret.html?
+[2025-04-27 13:58:48] Auth header: 
+[2025-04-27 13:58:48] Authentication failed: Invalid header format
+[2025-04-27 13:58:48] 401 Unauthorized: Authentication required
+[2025-04-27 13:58:56] Connection from 127.0.0.1:44548 - GET /
+[2025-04-27 13:58:56] Enqueued request GET /
+[2025-04-27 13:58:56] Scheduled request GET /
+[2025-04-27 13:58:56] Request: GET /?
+[2025-04-27 13:58:56] Served file: www/index.html (2156 bytes)
+[2025-04-27 13:58:57] Connection from 127.0.0.1:44550 - GET /styles.css
+[2025-04-27 13:58:57] Enqueued request GET /styles.css
+[2025-04-27 13:58:57] Scheduled request GET /styles.css
+[2025-04-27 13:58:57] Request: GET /styles.css?
+[2025-04-27 13:58:57] Served file: www/styles.css (1709 bytes)
+[2025-04-27 13:58:57] Connection from 127.0.0.1:44564 - GET /logo.png
+[2025-04-27 13:58:57] Scheduled request GET /logo.png
+[2025-04-27 13:58:57] Request: GET /logo.png?
+[2025-04-27 13:58:57] 404 Not Found: Sent custom 404 page
+[2025-04-27 13:58:57] Enqueued request GET /logo.png
+[2025-04-27 13:59:07] Connection from 127.0.0.1:51762 - GET /about.html
+[2025-04-27 13:59:07] Enqueued request GET /about.html
+[2025-04-27 13:59:07] Scheduled request GET /about.html
+[2025-04-27 13:59:07] Request: GET /about.html?
+[2025-04-27 13:59:07] Served file: www/about.html (2274 bytes)
+[2025-04-27 13:59:08] Connection from 127.0.0.1:51776 - GET /styles.css
+[2025-04-27 13:59:08] Enqueued request GET /styles.css
+[2025-04-27 13:59:08] Scheduled request GET /styles.css
+[2025-04-27 13:59:08] Request: GET /styles.css?
+[2025-04-27 13:59:08] Served from cache: www/styles.css
+[2025-04-27 13:59:22] Connection from 127.0.0.1:49010 - GET /
+[2025-04-27 13:59:22] Enqueued request GET /
+[2025-04-27 13:59:22] Scheduled request GET /
+[2025-04-27 13:59:22] Request: GET /?
+[2025-04-27 13:59:22] Served from cache: www/index.html
+[2025-04-27 13:59:23] Connection from 127.0.0.1:35234 - GET /styles.css
+[2025-04-27 13:59:23] Enqueued request GET /styles.css
+[2025-04-27 13:59:23] Scheduled request GET /styles.css
+[2025-04-27 13:59:23] Request: GET /styles.css?
+[2025-04-27 13:59:23] Served from cache: www/styles.css
+[2025-04-27 13:59:23] Connection from 127.0.0.1:35244 - GET /logo.png
+[2025-04-27 13:59:23] Enqueued request GET /logo.png
+[2025-04-27 13:59:23] Scheduled request GET /logo.png
+[2025-04-27 13:59:23] Request: GET /logo.png?
+[2025-04-27 13:59:23] 404 Not Found: Sent custom 404 page
+[2025-04-27 13:59:24] Connection from 127.0.0.1:35250 - GET /calculator.html
+[2025-04-27 13:59:24] Enqueued request GET /calculator.html
+[2025-04-27 13:59:24] Scheduled request GET /calculator.html
+[2025-04-27 13:59:24] Request: GET /calculator.html?
+[2025-04-27 13:59:24] Served file: www/calculator.html (3335 bytes)
+[2025-04-27 13:59:25] Connection from 127.0.0.1:35262 - GET /styles.css
+[2025-04-27 13:59:25] Enqueued request GET /styles.css
+[2025-04-27 13:59:25] Scheduled request GET /styles.css
+[2025-04-27 13:59:25] Request: GET /styles.css?
+[2025-04-27 13:59:25] Served from cache: www/styles.css
+[2025-04-27 13:59:30] Connection from 127.0.0.1:35276 - GET /
+[2025-04-27 13:59:30] Enqueued request GET /
+[2025-04-27 13:59:30] Scheduled request GET /
+[2025-04-27 13:59:30] Request: GET /?
+[2025-04-27 13:59:30] Served from cache: www/index.html
+[2025-04-27 13:59:31] Connection from 127.0.0.1:35286 - GET /styles.css
+[2025-04-27 13:59:31] Enqueued request GET /styles.css
+[2025-04-27 13:59:31] Scheduled request GET /styles.css
+[2025-04-27 13:59:31] Request: GET /styles.css?
+[2025-04-27 13:59:31] Served from cache: www/styles.css
+[2025-04-27 13:59:31] Connection from 127.0.0.1:35294 - GET /logo.png
+[2025-04-27 13:59:31] Enqueued request GET /logo.png
+[2025-04-27 13:59:31] Scheduled request GET /logo.png
+[2025-04-27 13:59:31] Request: GET /logo.png?
+[2025-04-27 13:59:31] 404 Not Found: Sent custom 404 page
+[2025-04-27 13:59:37] Connection from 127.0.0.1:33550 - GET /secure/secret.html
+[2025-04-27 13:59:37] Scheduled request GET /secure/secret.html
+[2025-04-27 13:59:37] Request: GET /secure/secret.html?
+[2025-04-27 13:59:37] Auth header: 
+[2025-04-27 13:59:37] Authentication failed: Invalid header format
+[2025-04-27 13:59:37] 401 Unauthorized: Authentication required
+[2025-04-27 13:59:37] Enqueued request GET /secure/secret.html
+[2025-04-27 13:59:45] Connection from 127.0.0.1:33564 -  
+[2025-04-27 13:59:45] Enqueued request  
+[2025-04-27 13:59:45] Scheduled request  
+[2025-04-27 13:59:45] Empty request received
+[2025-04-27 13:59:46] Connection from 127.0.0.1:57654 - GET /about.html
+[2025-04-27 13:59:46] Enqueued request GET /about.html
+[2025-04-27 13:59:46] Scheduled request GET /about.html
+[2025-04-27 13:59:46] Request: GET /about.html?
+[2025-04-27 13:59:46] Served from cache: www/about.html
+[2025-04-27 13:59:47] Connection from 127.0.0.1:57658 - GET /styles.css
+[2025-04-27 13:59:47] Enqueued request GET /styles.css
+[2025-04-27 13:59:47] Scheduled request GET /styles.css
+[2025-04-27 13:59:47] Request: GET /styles.css?
+[2025-04-27 13:59:47] Served from cache: www/styles.css
+[2025-04-27 13:59:52] Connection from 127.0.0.1:57666 -  
+[2025-04-27 13:59:52] Enqueued request  
+[2025-04-27 13:59:52] Scheduled request  
+[2025-04-27 13:59:52] Empty request received
+[2025-04-27 13:59:57] Connection from 127.0.0.1:40338 - GET /
+[2025-04-27 13:59:57] Enqueued request GET /
+[2025-04-27 13:59:57] Scheduled request GET /
+[2025-04-27 13:59:57] Request: GET /?
+[2025-04-27 13:59:57] Served from cache: www/index.html
+[2025-04-27 13:59:57] Connection from 127.0.0.1:40350 - GET /styles.css
+[2025-04-27 13:59:57] Enqueued request GET /styles.css
+[2025-04-27 13:59:57] Scheduled request GET /styles.css
+[2025-04-27 13:59:57] Request: GET /styles.css?
+[2025-04-27 13:59:57] Served from cache: www/styles.css
+[2025-04-27 13:59:57] Connection from 127.0.0.1:40362 - GET /logo.png
+[2025-04-27 13:59:57] Enqueued request GET /logo.png
+[2025-04-27 13:59:57] Scheduled request GET /logo.png
+[2025-04-27 13:59:57] Request: GET /logo.png?
+[2025-04-27 13:59:57] 404 Not Found: Sent custom 404 page
+[2025-04-27 14:00:00] Connection from 127.0.0.1:40372 - GET /stats.html
+[2025-04-27 14:00:00] Enqueued request GET /stats.html
+[2025-04-27 14:00:00] Scheduled request GET /stats.html
+[2025-04-27 14:00:00] Request: GET /stats.html?
+[2025-04-27 14:00:00] Served file: www/stats.html (2699 bytes)
+[2025-04-27 14:00:00] Connection from 127.0.0.1:40386 - GET /styles.css
+[2025-04-27 14:00:00] Enqueued request GET /styles.css
+[2025-04-27 14:00:00] Scheduled request GET /styles.css
+[2025-04-27 14:00:00] Request: GET /styles.css?
+[2025-04-27 14:00:00] Served from cache: www/styles.css
+[2025-04-27 14:00:01] Connection from 127.0.0.1:40396 - GET /stats
+[2025-04-27 14:00:01] Enqueued request GET /stats
+[2025-04-27 14:00:01] Scheduled request GET /stats
+[2025-04-27 14:00:01] Request: GET /stats?
+[2025-04-27 14:00:01] Served statistics page
+[2025-04-27 14:00:01] Connection from 127.0.0.1:40404 - GET /index.html
+[2025-04-27 14:00:01] Enqueued request GET /index.html
+[2025-04-27 14:00:01] Scheduled request GET /index.html
+[2025-04-27 14:00:01] Request: GET /index.html?
+[2025-04-27 14:00:01] Served from cache: www/index.html
+[2025-04-27 14:00:01] Connection from 127.0.0.1:40410 - GET /style.css
+[2025-04-27 14:00:01] Enqueued request GET /style.css
+[2025-04-27 14:00:01] Scheduled request GET /style.css
+[2025-04-27 14:00:01] Request: GET /style.css?
+[2025-04-27 14:00:01] 404 Not Found: Sent custom 404 page
+[2025-04-27 14:00:01] Connection from 127.0.0.1:40424 - GET /404.html
+[2025-04-27 14:00:01] Enqueued request GET /404.html
+[2025-04-27 14:00:01] Scheduled request GET /404.html
+[2025-04-27 14:00:01] Request: GET /404.html?
+[2025-04-27 14:00:01] Served file: www/404.html (1000 bytes)
+[2025-04-27 14:00:02] Connection from 127.0.0.1:40436 - GET /stats
+[2025-04-27 14:00:02] Enqueued request GET /stats
+[2025-04-27 14:00:02] Scheduled request GET /stats
+[2025-04-27 14:00:02] Request: GET /stats?
+[2025-04-27 14:00:02] Served statistics page
+[2025-04-27 14:00:25] Connection from 127.0.0.1:34486 -  
+[2025-04-27 14:00:25] Enqueued request  
+[2025-04-27 14:00:25] Scheduled request  
+[2025-04-27 14:00:25] Empty request received
+[2025-04-27 14:30:35] Removed stale cache entry
+[2025-04-27 14:30:35] Removed stale cache entry
+[2025-04-27 14:30:35] Removed stale cache entry
+[2025-04-27 14:30:35] Removed stale cache entry
